@@ -2,7 +2,7 @@
 - 👀 I’m interested in
 - Making something interesting
 - 🌱 I’m currently learning
-- HTML, CSS, JavaScript, React
+- HTML, CSS, JavaScript, React, node.js
 - 💞️ I’m looking to collaborate on 
 - If you don't mind being a beginner... And I am not good at English.
 - 📫 How to reach me
